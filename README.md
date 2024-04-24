@@ -1,4 +1,5 @@
 # Stopwatch Example
 
- Exemplo de uso da classe Stopwatch
- Example of using the Stopwatch class
+Exemplo de uso da classe Stopwatch
+Example of using the Stopwatch class
+
